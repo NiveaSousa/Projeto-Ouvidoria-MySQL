@@ -1,4 +1,4 @@
-from curses.ascii import isalpha
+
 import registros_classe
 
 
